@@ -1,0 +1,51 @@
+.logo {
+  -webkit-animation: fadeInUp 1.5s ease both;
+}
+.page1 .img2 {
+  -webkit-animation: fadeInLeft 1.8s ease both;
+}
+.page1 .img3 {
+  -webkit-animation: fadeInLeft 1.8s ease 0.5s both;
+}
+.page1 .img4 {
+  -webkit-animation: fadeInLeft 1.8s ease 1s both;
+}
+.page1 .img5 {
+  -webkit-animation: fadeInLeft 1.8s ease 1.5s both;
+}
+.page1 .img6 {
+  -webkit-animation: fadeInUp 2.1s ease 2s both;
+}
+.page2 .img2 {
+  -webkit-animation: fadeInLeft 1.8s ease both;
+}
+.page2 .img3 {
+  -webkit-animation: fadeInLeft 1.8s ease 0.5s both;
+}
+.page2 .img4 {
+  -webkit-animation: fadeInLeft 1.8s ease 1s both;
+}
+.page3 .img2 {
+  -webkit-animation: fadeInLeft 1.8s ease both;
+}
+.page3 .img3 {
+  -webkit-animation: fadeInLeft 1.8s ease 0.5s both;
+}
+.page3 .img4 {
+  -webkit-animation: fadeInLeft 1.8s ease 1s both;
+}
+.page3 .img5 {
+  -webkit-animation: fadeInLeft 1.8s ease 0.8s both;
+}
+.page3 .img6 {
+  -webkit-animation: fadeInRight 1.8s ease 1.3s both;
+}
+.page4 .img2 {
+  -webkit-animation: fadeInLeft 1.8s ease both;
+}
+.page4 .img3 {
+  -webkit-animation: fadeInLeft 1.8s ease 0.5s both;
+}
+.page4 .img4 {
+  -webkit-animation: fadeInLeft 1.8s ease 1s both;
+}
