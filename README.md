@@ -1,6 +1,5 @@
 
-author:coderL 
-
+coderL 
 
 ``` CSS
 <!-- 主题 -->
@@ -66,7 +65,7 @@ author:coderL
 <!-- 元素默认都为绝对定位 -->
 
 ```
-## slide 内 img 元素
+## slide 元素 
 
 <!-- 宽w- 高h- 左l- 右r- 层级z-  单位为rem-->
 
