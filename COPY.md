@@ -1,9 +1,9 @@
-```
-author:coderL
-```
 
+author:coderL 
+
+
+``` CSS
 <!-- 主题 -->
-
 -webkit-animation: seal 1s ease 0.5s both,biger3 3s linear infinite 1.5s forwards;
 
 <!-- 左侧快速划入 抖动 -->
@@ -65,22 +65,34 @@ author:coderL
 <!-- 宽度不设置宽度默认为100% -->
 <!-- 元素默认都为绝对定位 -->
 
+```
 ## slide 内 img 元素
 
 <!-- 宽w- 高h- 左l- 右r- 层级z-  单位为rem-->
 
-```
+```javascript
 {
         "className": ["animate1", "page1"],
         "info": [
+
         ]
 },
 
 ```
 
+## img 图片元素
+
+```javascript 此元素样式为width:1rem; top:1rem;left:1rem; right:1rem;z-index:2
+ {
+     "imgurl": "img/1-1.png",
+     "className": "animate1 img1",
+     "style":"w-1 t-1 l-1 r-1  z-2"
+ },
+```
+
 ## img 地图导航元素 nav
 
-```
+```javascript
    {
     "imgurl": "img/1-1.png",
     "className": ["animate1", "img2"],
@@ -103,7 +115,7 @@ author:coderL
 
 ## a+img 打电话按钮元素
 
-```
+```javascript
     {
      "imgurl": "img/1-1.png",
      "className": ["animate1", "img1"],
@@ -113,18 +125,11 @@ author:coderL
     },
 ```
 
-## img 图片元素
 
-```
- {
-     "imgurl": "img/1-1.png",
-     "className": ["animate1", "img1"],
- },
-```
 
 ## input 姓名元素
 
-```
+```javascript
  {
      "type":"nameVal",
      "imgurl": "img/1-1.png",
@@ -134,7 +139,7 @@ author:coderL
 
 ## input 电话元素
 
-```
+```javascript
  {
      "type":"telVal",
      "imgurl": "img/1-1.png",
@@ -145,7 +150,7 @@ author:coderL
 
 ## input 身份证元素
 
-```
+```javascript
  {
      "type":"cardVal",
      "imgurl": "img/1-1.png",
@@ -155,7 +160,7 @@ author:coderL
 
 ## 提交按钮元素
 
-```
+```javascript
  {
      "type":"submit",
      "imgurl": "img/1-1.png",
