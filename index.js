@@ -8,9 +8,13 @@ new H5({
 	imgSize: 1400,
 	// 是否需要cos需要资源图片放在腾讯云上 本地打开项目和cos无关
 	isNeedCos: true,
+	// 设定初始化时slide的索引 初始为0
+	initialSlide: 0,
+	// 方向 direction 水平(horizontal)或垂直(vertical)
+	direction: "vertical",
 	// 图片全部渲染完的回调
 	imgpreloadAll() {
-    
+
 	},
 	// 分享详情信息
 	shareConfig: {
@@ -24,7 +28,7 @@ new H5({
 		shareIconUrl: "icon.png",
 		// 分享成功回调
 		callback: () => {
-			
+
 		}
 	}
 });

@@ -70,15 +70,6 @@ author:coderL
 
 <!-- 宽w- 高h- 左l- 右r- 层级z-  单位为rem-->
 
-```javascript
-{
-        "className": ["animate1", "page1"],
-        "info": [
-
-        ]
-},
-
-```
 
 ## img 图片元素
 
